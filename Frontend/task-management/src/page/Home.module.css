@@ -1,0 +1,19 @@
+/* Home */
+@media (max-width: 1024px) {
+  .sidebar.lg-show {
+    width: 50vw;
+  }
+}
+
+@media (max-width: 768px) {
+  .mainContent {
+    padding: 0 2rem;
+  }
+}
+
+@media (max-width: 640px) {
+  .mainContent {
+    padding-top: 1.5rem;
+    margin-bottom: 1rem;
+  }
+}
