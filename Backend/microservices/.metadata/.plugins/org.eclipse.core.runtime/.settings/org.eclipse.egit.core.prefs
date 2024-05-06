@@ -1,0 +1,4 @@
+GitRepositoriesView.GitDirectories=C\:\\Users\\upendra singh\\git\\repository2\\.git;D\:\\Code\\Project-Management-Service\\Backend\\microservices\\user-service\\.git;D\:\\Code\\Project-Management-Service\\Backend\\microservices\\gateway\\.git;D\:\\Code\\Project-Management-Service\\Backend\\microservices\\task-submission-service\\.git;D\:\\Code\\Project-Management-Service\\Backend\\microservices\\task-service\\.git;C\:\\Users\\upendra singh\\git\\repository\\.git;D\:\\Code\\Project-Management-Service\\Backend\\microservices\\eureka-server\\.git;
+GitRepositoriesView.GitDirectories.relative=C\:\\Users\\upendra singh\\git\\repository2\\.git;user-service\\.git;gateway\\.git;task-submission-service\\.git;task-service\\.git;C\:\\Users\\upendra singh\\git\\repository\\.git;eureka-server\\.git;
+core_autoIgnoreDerivedResources=false
+eclipse.preferences.version=1
