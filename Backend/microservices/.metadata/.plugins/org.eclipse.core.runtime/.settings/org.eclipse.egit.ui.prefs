@@ -1,7 +1,0 @@
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>done</message>\r\n<message>done&\#x0A;</message>\r\n<message>ip</message>\r\n<message>eu</message>\r\n<message>eureka</message>\r\n<message>latest</message>\r\n<message>ok</message>\r\n<message>sql updated</message>\r\n<message>docker info</message>\r\n<message>initial</message>\r\n</messages>
-eclipse.preferences.version=1
-repository_push_settings_D\:\\Code\\Project-Management-Service\\Backend\\microservices\\eureka-server\\.git=true;-
-repository_push_settings_D\:\\Code\\Project-Management-Service\\Backend\\microservices\\gateway\\.git=true;-
-repository_push_settings_D\:\\Code\\Project-Management-Service\\Backend\\microservices\\task-service\\.git=true;-
-repository_push_settings_D\:\\Code\\Project-Management-Service\\Backend\\microservices\\task-submission-service\\.git=true;-
-repository_push_settings_D\:\\Code\\Project-Management-Service\\Backend\\microservices\\user-service\\.git=true;-
